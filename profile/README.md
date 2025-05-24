@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/logo.png?raw=true" width="40"/>
-  <b style="font-size: 24px;">&nbsp;똑똑</b>
+  <img src="https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/typo.png?raw=true" width="40"/>
 </p>
 
 ---
