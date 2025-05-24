@@ -1,7 +1,10 @@
-##🏆2025 DND 해커톤 2등 수상
+## 🏆2025 DND 해커톤 2등 수상
 ![1](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/1.png?raw=true)
 
-## 📸 서비스 화면 미리보기
+<p align="left">
+  <img src="https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/logo.png?raw=true" width="40"/>
+  <b style="font-size: 24px;">&nbsp;똑똑</b>
+</p>
 
 ---
 
