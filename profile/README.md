@@ -1,9 +1,7 @@
-# 🟢 똑똑 (ttok-ttok)
+##🏆2025 DND 해커톤 2등 수상
+![1](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/1.png?raw=true)
 
 ## 📸 서비스 화면 미리보기
-
-### 1. 로그인 화면
-![1](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/1.png?raw=true)
 
 ---
 
