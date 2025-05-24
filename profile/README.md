@@ -2,8 +2,8 @@
 ![1](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/1.png?raw=true)
 
 <p align="left">
-  <img src="https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/logo.png?raw=true" />
-  <img src="https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/typo.png?raw=true" />
+  <img src="https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/logo.png?raw=true" width="40"/>
+  <img src="https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/typo.png?raw=true" height="40"/>
 </p>
 
 ---
