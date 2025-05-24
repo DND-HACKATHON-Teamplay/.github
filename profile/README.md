@@ -4,8 +4,9 @@
 <p align="left">
   <img src="https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/logo.png?raw=true" width="40"/>
   <img src="https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/typo.png?raw=true" height="40"/>
-</p> ## 
+</p> 
 
+---
 
 하루 한 번, 어르신의 안부를 대신 확인해주는 AI 케어콜 서비스,**똑똑**
 
