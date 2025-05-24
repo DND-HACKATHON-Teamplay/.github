@@ -20,7 +20,13 @@
 
 ![7](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/7.png?raw=true)
 
+---
+
+## 🛠 Developer Stack
+
 ![8](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/8.png?raw=true)
+
+## ⚙️ Server Architecture
 
 ![9](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/9.png?raw=true)
 
@@ -35,17 +41,3 @@
 | 최승훈   | 디자인       |
 | 김재훈   | 기획, 디자인 |
 
----
-
-## 💡 서비스 한줄 소개
-
-**지역사회 독거노인 돌봄 공백과 가족의 불안을 동시에 해결하는  
-AI 기반 안부 확인 서비스, 똑똑**
-
----
-
-## 🛠 기술 스택
-
-**Front-End**: React, TypeScript  
-**Back-End**: Spring Boot, Node.js, MySQL, GPT API, WebSocket  
-**Design**: Figma
