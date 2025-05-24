@@ -8,42 +8,20 @@
 
 ---
 
-### 2. 어르신 등록 – 기본 정보 입력
 ![2](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/2.png?raw=true)
 
----
-
-### 3. 어르신 등록 – 전화 시간 설정
 ![3](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/3.png?raw=true)
 
----
-
-### 4. 안부 확인 달력 – 요약 보기
 ![4](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/4.png?raw=true)
 
----
-
-### 5. 안부 상세보기 – 통화 내용 확인
 ![5](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/5.png?raw=true)
 
----
-
-### 6. 보호자 대시보드 – 건강 상태 통계
 ![6](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/6.png?raw=true)
 
----
-
-### 7. 케어콜 통계 분석
 ![7](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/7.png?raw=true)
 
----
-
-### 8. 대시보드 상태 그래프
 ![8](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/8.png?raw=true)
 
----
-
-### 9. 알림 설정 화면
 ![9](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/assets/9.png?raw=true)
 
 ## 👥 Team-Play 팀
