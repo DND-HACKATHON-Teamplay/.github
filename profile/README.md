@@ -7,7 +7,7 @@
 ## 📄 DND 해커톤 발표자료
 
 - 서비스 개요, 문제 정의, 리서치, 솔루션, 기능 설명까지 담긴 공식 발표자료입니다.  
-- 👉 [PDF 보기](https://github.com/your-org-name/your-repo-name/blob/main/docs/DND_헤커톤_발표자료.pdf)
+- 👉 [PDF 보기](https://github.com/DND-HACKATHON-Teamplay/.github/blob/main/profile/%E1%84%84%E1%85%A9%E1%86%A8%E1%84%84%E1%85%A9%E1%86%A8.pdf)
 
 ---
 
